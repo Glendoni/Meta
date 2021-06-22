@@ -1,0 +1,14 @@
+body {
+    background: black;
+}
+
+.card {
+    background: #101010;
+    color: white;
+}
+.nav{
+   margin-bottom: 20px;
+}
+.active{
+    background: green !important;
+}

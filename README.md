@@ -22,4 +22,6 @@ PHP ADMIN:
 Step 4
 Open browser and navigate to: http://localhost:8001/
 
+
+Issues with DB connectivity: Try to update the servername variable in App/Database/dbConnect.php with the  network Gateway credentials located in the meta_db_1 Docker container.
 ```
